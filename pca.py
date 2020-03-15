@@ -1,6 +1,4 @@
 # Name: Gus Kalivas
-# Program: p5 pca
-# wisc: wkalivas
 
 from scipy.io import loadmat
 from scipy.linalg import eigh
